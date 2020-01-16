@@ -191,6 +191,7 @@ nav {
 }
 
 .stats__list__item {
+ border-radius: 2rem;
  padding: 2rem;
  margin: 2rem;
  border-bottom: 1px solid var(--pastel-pink);
